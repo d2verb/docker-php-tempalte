@@ -2,7 +2,7 @@
 
 ## Build images
 ```
-$ mkdir laravel_app
+$ mkdir project && cd project
 $ mkdir app
 $ git clone https://github.com/d2verb/docker-php-tempalte docker
 $ cd docker
