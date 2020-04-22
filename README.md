@@ -4,7 +4,7 @@
 ```
 $ mkdir project && cd project
 $ mkdir app
-$ git clone https://github.com/d2verb/docker-php-tempalte docker
+$ git clone https://github.com/d2verb/docker-php-template docker
 ```
 
 ## Build images
