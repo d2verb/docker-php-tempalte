@@ -22,7 +22,7 @@ $ docker-compose up -d
 ## Create laravel project
 ```
 $ cd project/docker
-$ docker-compose exec php laravel new
+$ docker-compose exec app laravel new
 $ ls ../app
 README.md         artisan           composer.json     config            package-lock.json phpunit.xml       resources         server.php        tests             webpack.mix.js
 app               bootstrap         composer.lock     database          package.json      public            routes            storage           vendor
