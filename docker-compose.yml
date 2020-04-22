@@ -12,10 +12,10 @@ services:
     depends_on:
       - app
 
-  php:
+  app:
     build: ./php
     image: php-dev
-    container_name: php
+    container_name: app
     volumes:
       - ../app:/var/www/app
     working_dir: /var/www/app
