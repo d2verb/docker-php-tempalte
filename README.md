@@ -1,6 +1,6 @@
 # Docker php template
 
-## Prepare
+## Preparing
 ```
 $ mkdir project && cd project
 $ mkdir app
